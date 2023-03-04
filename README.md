@@ -1,4 +1,4 @@
-# If you come from bash you might have to change your $PATH.
+```# If you come from bash you might have to change your $PATH.
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -69,3 +69,4 @@ export PATH="$HOME/victoria/.local/bin:$PATH"
 
 # Edit .zshrc and add this line
 export PATH=$HOME/.config/rofi/scripts:$PATH
+```
